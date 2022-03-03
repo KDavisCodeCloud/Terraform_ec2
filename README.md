@@ -1,2 +1,2 @@
 # Terraform_ec2
-Terraform EC2
+Goal of this repo was to demonstrate how to spin up an EC2 instance via terraform; a cloud agnostic provisioning tool. Learning Terraform because there are use cases out there where clients will have hybrid cloud envirionments, and may have data on prem, as well as in the cloud, or they may use multiple clouds, etc. This  particular use case was spinning up a virtual machine in AWS (my main area of study in cloud engineering / devops). 
